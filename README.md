@@ -1,4 +1,4 @@
-# VendingMachineSimulator
+# Vending Machine Simulator
 Pl: !!!WAŻNA INFORMACJA!!!
 
 Aplikacja została stworzona w oparciu o bazę danych w języku: 'SQL' ,przy użyciu: 'Microsoft SQL Server Express (64-bit)'  oraz 'Microsoft SQL Server Management Studio'.
