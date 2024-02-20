@@ -32,4 +32,4 @@ called: 'ISQLcomunication':
 2. 'databaseName' - database name,
 3. 'connectonString' - connection string.
 
-To login into worker menu when selecting a product/'Input' ente: '68718'. After geting send to login system input as login: 'kKida' and for password: 'De2@Vfa'.
+To login into worker menu when selecting a product/'Input' enter: '68718'. After geting send to login system input as login: 'kKida' and for password: 'De2@Vfa'.
