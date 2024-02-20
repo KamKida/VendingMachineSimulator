@@ -11,7 +11,7 @@ Jeśli tak nie jest bądź masz problemy z działaniem aplikacji spowodowanym pr
 możesz zmienić nazwe bazy danych, serwera oraz ciąg połączenia bezpośrednio w kodzie aplikacji w interfejsie 
 o nazwie: 'ISQLcomunication':
 1. 'serverName' - nazwa serwera,
-2. 'datebaseName' - nazwa bazy danych,
+2. 'databaseName' - nazwa bazy danych,
 3. 'connectonString' - ciąg połączenia.
 
 Eng: !!!IMPORTENT INFORMATIONS!!!
@@ -27,5 +27,5 @@ If it isn't the case or if you have any problems with application due to databas
 you can change database name, server name and connection string directly in aplication code, in iterface
 called: 'ISQLcomunication':
 1. 'serverName' - database server name,
-2. 'datebaseName' - database name,
+2. 'databaseName' - database name,
 3. 'connectonString' - connection string.
