@@ -10,7 +10,7 @@ Przed przystąpieniem do pracy z aplikacją upewnij się że:
 Jeśli tak nie jest bądź masz problemy z działaniem aplikacji spowodowanym problemami z bazą danych 
 możesz zmienić nazwe bazy danych, serwera oraz ciąg połączenia bezpośrednio w kodzie aplikacji w interfejsie 
 o nazwie: 'ISQLcomunication':
-1. 'serverName' - nazwa serwera,
+1. 'serverName' - nazwa serwera bazy danych,
 2. 'databaseName' - nazwa bazy danych,
 3. 'connectonString' - ciąg połączenia.
 
