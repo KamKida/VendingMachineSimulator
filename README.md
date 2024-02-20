@@ -14,6 +14,8 @@ o nazwie: 'ISQLcomunication':
 2. 'databaseName' - nazwa bazy danych,
 3. 'connectonString' - ciąg połączenia.
 
+Rzeby zalogować się do menu pracownika w wyborze produktów/'Input' wpisz: '68718'. Po przeniesieniu do systemu logowania login to: 'kKida', a hasło: 'De2@Vfa'.
+
 Eng: 
 
 Application was written based on database in: 'SQL' language, using: 'Microsoft SQL Server Express (64-bit)' and 'Microsoft SQL Server Management Studio'.
@@ -29,3 +31,5 @@ called: 'ISQLcomunication':
 1. 'serverName' - database server name,
 2. 'databaseName' - database name,
 3. 'connectonString' - connection string.
+
+To login into worker menu when selecting a product/'Input' ente: '68718'. After geting send to login system input as login: 'kKida' and for password: 'De2@Vfa'.
