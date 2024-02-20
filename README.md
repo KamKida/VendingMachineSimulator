@@ -1,5 +1,5 @@
-# Vending Machine Simulator
-Pl: !!!WAŻNA INFORMACJA!!!
+# !!!WAŻNA INFORMACJA!!!//!!!IMPORTENT INFORMATIONS!!!
+Pl: 
 
 Aplikacja została stworzona w oparciu o bazę danych w języku: 'SQL' ,przy użyciu: 'Microsoft SQL Server Express (64-bit)'  oraz 'Microsoft SQL Server Management Studio'.
 Przed przystąpieniem do pracy z aplikacją upewnij się że:
@@ -14,7 +14,7 @@ o nazwie: 'ISQLcomunication':
 2. 'databaseName' - nazwa bazy danych,
 3. 'connectonString' - ciąg połączenia.
 
-Eng: !!!IMPORTENT INFORMATIONS!!!
+Eng: 
 
 Application was written based on database in: 'SQL' language, using: 'Microsoft SQL Server Express (64-bit)' and 'Microsoft SQL Server Management Studio'.
 When creating database make sure that:
