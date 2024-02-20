@@ -1,7 +1,7 @@
 # VendingMachineSimulator
 Pl: !!!WAŻNA INFORMACJA!!!
 
-Aplikacja została stworzona w oparciu o bazę danych w języku: 'SQL' ,przy urzyciu: 'Microsoft SQL Server Express (64-bit)'  oraz 'Microsoft SQL Server Management Studio'.
+Aplikacja została stworzona w oparciu o bazę danych w języku: 'SQL' ,przy użyciu: 'Microsoft SQL Server Express (64-bit)'  oraz 'Microsoft SQL Server Management Studio'.
 Przed przystąpieniem do pracy z aplikacją upewnij się że:
 1. Nazwa bazy danych to: 'VendingMachine'.
 2. Baza danych jest ustawiona na: 'Windows Authentication'.
