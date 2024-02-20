@@ -18,9 +18,10 @@ Eng: !!!IMPORTENT INFORMATIONS!!!
 
 Application was written based on database in: 'SQL' language, using: 'Microsoft SQL Server Express (64-bit)' and 'Microsoft SQL Server Management Studio'.
 When creating database make sure that:
-1.Database name is: 'VendingMachine'.
-2.Database is set to: 'Windows Authentication'.
-3.Database server name is: 'DESKTOP-1R7C1KM'.
+1. Database name is: 'VendingMachine'.
+2. Database is set to: 'Windows Authentication'.
+3. Database server name is: 'DESKTOP-1R7C1KM'.
+
 
 If it isn't the case or if you have any problems with application due to database errors
 you can change database name, server name and connection string directly in aplication code, in iterface
