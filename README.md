@@ -14,7 +14,7 @@ o nazwie: 'ISQLcomunication':
 2. 'databaseName' - nazwa bazy danych,
 3. 'connectonString' - ciąg połączenia.
 
-Rzeby zalogować się do menu pracownika w wyborze produktów/'Input' wpisz: '68718'. Po przeniesieniu do systemu logowania login to: 'kKida', a hasło: 'De2@Vfa'.
+Żeby zalogować się do menu pracownika w wyborze produktów/'Input' wpisz: '68718'. Po przeniesieniu do systemu logowania login to: 'kKida', a hasło: 'De2@Vfa'. 
 
 Eng: 
 
